@@ -1,0 +1,1 @@
+{"version":1,"game":"zip","date":"2026-11-24","number":24,"difficulty":2,"size":6,"numbers":[[null,null,8,null,null,null],[9,null,4,null,null,null],[null,null,null,3,2,null],[10,null,null,null,null,null],[null,null,1,null,null,null],[null,null,null,5,6,7]],"walls":[{"r":1,"c":3,"side":"down"},{"r":2,"c":2,"side":"down"},{"r":3,"c":3,"side":"right"}]}
